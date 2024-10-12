@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tledatuc.github.io/sitemap.html.gz
+Sitemap: https://tledatuc.github.io/app/sitemap.html.gz
+Sitemap: https://tledatuc.github.io/assets/sitemap.html.gz
+Sitemap: https://tledatuc.github.io/css/sitemap.html.gz
+Sitemap: https://tledatuc.github.io/includes/sitemap.html.gz
+Sitemap: https://tledatuc.github.io/item/sitemap.html.gz
+Sitemap: https://tledatuc.github.io/src/sitemap.html.gz
